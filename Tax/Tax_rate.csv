@@ -1,0 +1,52 @@
+STATE,StateName,PROPERTY TAX RATE,SALES TAX RATE,STATE INCOME TAX
+Alabama,AL,0.37,9.22,5.00
+Alaska,AK,1.02,1.76,0.00
+Arizona,AZ,0.64,8.40,4.50
+Arkansas,AR,0.63,9.47,6.60
+California,CA,0.70,8.66,13.30
+Colorado,CO,0.53,7.65,4.63
+Connecticut,CT,1.68,6.35,6.99
+Delaware,DE,0.58,0.00,6.60
+Florida,DC,0.89,7.05,0.00
+Georgia,FL,0.88,7.31,5.75
+Hawaii,GA,0.30,4.44,11.00
+Idaho,HI,0.72,6.03,6.93
+Illinois,ID,1.95,9.08,4.95
+Indiana,IL,0.82,7.00,3.23
+Iowa,IN,1.46,6.94,8.53
+Kansas,IA,1.28,8.68,5.70
+Kentucky,KS,0.79,6.00,5.00
+Louisiana,KY,0.51,9.52,6.00
+Maine,LA,1.24,5.50,7.15
+Maryland,ME,1.00,6.00,5.75
+Massachusetts,MD,1.10,6.25,5.00
+Michigan,MA,1.37,6.00,4.25
+Minnesota,MI,1.06,7.46,9.85
+Mississippi,MN,0.62,7.07,5.00
+Missouri,MS,0.97,8.18,5.40
+Montana,MO,0.73,0.00,6.90
+Nebraska,MT,1.61,6.93,6.84
+Nevada,NE,0.60,8.32,0.00
+New Hampshire,NV,1.94,0.00,5.00
+New Jersey,NH,2.13,6.60,10.75
+New Mexico,NJ,0.62,7.82,4.90
+New York,NM,1.32,8.52,8.82
+North Carolina,NY,0.81,6.97,5.25
+North Dakota,NC,0.90,6.86,2.90
+Ohio,ND,1.54,7.17,4.79
+Oklahoma,OH,0.87,8.94,5.00
+Oregon,OK,0.91,0.00,9.90
+Pennsylvania,OR,1.46,6.34,3.07
+Rhode Island,PA,1.43,7.00,5.99
+South Carolina,RI,0.52,7.46,7.00
+South Dakota,SC,1.18,6.40,0.00
+Tennessee,SD,0.68,9.53,1.00
+Texas,TN,1.62,8.19,0.00
+Utah,TX,0.58,7.18,4.95
+Vermont,UT,1.79,6.22,8.75
+Virginia,VT,0.84,5.65,5.75
+Washington State,VA,0.85,9.21,0.00
+Washington D.C.,WA,0.54,6.00,8.95
+West Virginia,WV,0.54,6.41,6.50
+Wisconsin,WI,1.63,5.46,7.65
+Wyoming,WY,0.58,5.34,0.00
